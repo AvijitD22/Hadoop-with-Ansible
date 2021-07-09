@@ -1,2 +1,2 @@
 # Hadoop-with-Ansible
-Configuring Hadoop Cluster with the help of Ansible
+Configuring Hadoop and Starting Cluster services using Ansible Playbook.
